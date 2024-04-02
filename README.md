@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Fares Alkorani. I am in final week of STA302.
 
 <!--
 **faralk/faralk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
