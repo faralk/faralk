@@ -1,4 +1,6 @@
-### Hello, my name is Fares Alkorani. I am in final week of STA302.
+### Hello, my name is Fares Alkorani. 👋
+
+I’m a third-year undergrad student at the University of Toronto. I am currently pursuing a double major in computer science and statistics. 
 
 <!--
 **faralk/faralk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
